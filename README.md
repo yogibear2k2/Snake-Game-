@@ -1,6 +1,6 @@
 # 🐍 Neon Snake Game 🎮
 
-![Neon Snake Screenshot](https://placehold.co/800x600/222222/FF1493?text=Snake+Game)
+![Neon Snake Screenshot](https://placehold.co/600x300/222222/FF1493?text=Snake+Game)
 
 A sleek, themeable snake game with neon aesthetics and smooth animations. Built with Pygame.
 
