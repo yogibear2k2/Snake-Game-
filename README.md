@@ -2,8 +2,10 @@
 
 ![Neon Snake Screenshot](https://placehold.co/600x300/222222/FF1493?text=Snake+Game)
 
-![In-Game Screenshot](https://imgur.com/Jam7SEe)
-A sleek, themeable snake game with neon aesthetics and smooth animations. Built with Pygame.
+https://pasteboard.co/etCkboFajexw.png
+
+
+A sleek, themeable snake game with neon aesthetics and animations. Built with Pygame.
 
 ## ✨ Features
 - 🎨 Multiple neon color themes (press T to cycle)
