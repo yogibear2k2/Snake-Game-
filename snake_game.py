@@ -11,7 +11,7 @@ pygame.display.set_caption("Neon Snake Game")
 CLOCK = pygame.time.Clock()
 
 
-icon = pygame.image.load('./images/image.png')  # Replace with your icon file path
+icon = pygame.image.load('image.png')  # Replace with your icon file path
 pygame.display.set_icon(icon)
 
 # Fonts
