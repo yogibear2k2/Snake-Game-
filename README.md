@@ -2,7 +2,7 @@
 
 ![Neon Snake](https://placehold.co/600x300/222222/FF1493?text=Snake+Game)
 
-![Neon Snake Screenshot](https://pasteboard.co/etCkboFajexw.png)
+![IN-GAME SCREENSHOT](https://pasteboard.co/etCkboFajexw.png)
 
 
 
